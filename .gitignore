@@ -12,6 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+
 # Built application files
 *.apk
 *.aar
@@ -96,4 +97,8 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+<<<<<<< HEAD
 # lint/reports/
+=======
+# lint/reports/
+>>>>>>> b6656ee8092483902b91658cf9240802cc202067
